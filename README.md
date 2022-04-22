@@ -1,5 +1,5 @@
 # CS320
-Sofware Testint, Automation, and Quality Assurance 
+Sofware Testing, Automation, and Quality Assurance 
 
 I can ensure that my code, program, or software is functional and secure by utilizing the techniques learned in this class such as manual testing or JUnit testing and other functional and non-functional testing methods.
 
